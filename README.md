@@ -1,1 +1,3 @@
-# nested-routes-using-go-router
+# flutter_go_router
+
+A new Flutter project.
